@@ -10466,6 +10466,9 @@ header .advantage-list .col-6:nth-child(4) .advantage-item .advantage-item-logo 
     width: 100%;
     font-size: 13px;
   }
+  .advantage-list {
+    width: 60%;
+  }
 }
 
 @media (max-width: 991.98px) {
